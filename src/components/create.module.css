@@ -1,0 +1,10 @@
+.createTodo {
+    width: 100%;
+    border: 25px solid#36D1DC;
+    background-color: aliceblue;
+    outline: 0;
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 10px 0px 10px 0;
+}
+
